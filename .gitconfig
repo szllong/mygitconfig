@@ -1,0 +1,14 @@
+[user]
+	email = szllong@cqu.edu.cn
+	name = szllong123
+[push]
+	default = simple
+[branch]
+	autosetuprebase = always
+[color]
+	ui = true
+	status = auto
+	branch = auto
+	editor = auto
+[merge]
+	tool = vimdiff
